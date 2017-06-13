@@ -1,0 +1,8 @@
+{
+    "name": "ravi/message",
+    "description": "this my test package",
+    "type": "laravel",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
