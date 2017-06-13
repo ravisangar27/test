@@ -1,6 +1,6 @@
 <?php
 
-namespace Ravi\Message;
+namespace Ravi27\Message;
 
 use Illuminate\Support\ServiceProvider;
 
